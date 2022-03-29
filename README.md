@@ -1,2 +1,2 @@
 # NeuralNetworkProject
-LeNet-5 Project
+LeNet-5
